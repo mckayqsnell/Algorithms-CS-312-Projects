@@ -1,0 +1,16 @@
+1. https://leetcode.com/problems/n-th-tribonacci-number/submissions/1228216756
+	- Dynamic programming
+2. https://leetcode.com/problems/combination-sum/submissions/1228243566
+	- Backtracking
+3. https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/1229155728
+ 	- Greedy Algorithm (prims)
+4. https://leetcode.com/problems/triangle/submissions/1229178832
+	- Dynamic Programming
+
+5. https://leetcode.com/problems/perfect-squares/submissions/1229192435
+	- Dynamic Programming
+
+6. https://leetcode.com/problems/course-schedule/submissions/1229227647
+	- DFS (cycle detection)
+7. https://leetcode.com/problems/two-sum/submissions/1229239680
+	- Greedy (kinda)
